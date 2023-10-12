@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "type": "toetsinstrumenten",
+        "naam": "Accordion",
+        "img": "img/accordion.png",
+        "beschrijving": "Veelzijdige accordeon met rijke tonen en traditioneel ontwerp. Ideaal voor folk, wereldmuziek en meer. Dit instrument biedt expressieve mogelijkheden voor muzikanten van alle niveaus.",
+        "prijs": 900.00
+    },
+    {
+        "id": 2,
+        "type": "tokkelinstrumenten",
+        "naam": "Banjo",
+        "img": "img/banjo.png",
+        "beschrijving": "Levendige banjo met heldere klanken en karakteristieke twang. Voorzien van hoogwaardige resonator en verstelbare brug. Perfect voor bluegrass, country en akoestische muziek.",
+        "prijs": 330.00
+    },
+    {
+        "id": 3,
+        "type": "tokkelinstrumenten",
+        "naam": "Basgitaar",
+        "img": "img/basgitaar.png",
+        "beschrijving": "Krachtige basgitaar met diepe, pulserende bassen en veelzijdige toonregeling. Geschikt voor verschillende muziekstijlen. Een essentieel instrument voor elke ritmesectie.",
+        "prijs": 600.00
+    },
+    {
+        "id": 4,
+        "type": "slaginstrumenten",
+        "naam": "Bekken",
+        "img": "img/bekken.png",
+        "beschrijving": "Hoogwaardige bekkenset met heldere, sprankelende klanken. Handgehamerd voor een uniek geluid. Een onmisbaar element voor drummers en percussionisten.",
+        "prijs": 150.00
+    },
+    {
+        "id": 5,
+        "type": "strijkinstrumenten",
+        "naam": "Cello",
+        "img": "img/cello.png",
+        "beschrijving": "Elegante cello met diepe, expressieve tonen en uitstekende projectie. Met zorg vervaardigd uit hoogwaardig esdoorn- en sparrenhout. Ideaal voor cellisten die streven naar meeslepende muzikale prestaties. Ervaar de diepte van geluid en vakmanschap met deze prachtige cello.",
+        "prijs": 900.00
+    },
+    {
+        "id": 6,
+        "type": "strijkinstrumenten",
+        "naam": "Contrabas",
+        "img": "img/contrabas.png",
+        "beschrijving": "Indrukwekkende contrabas met diepe, resonante klanken en solide constructie. Geschikt voor klassieke en moderne muziekstijlen. Voeg een krachtige laag toe aan je muzikale composities.",
+        "prijs": 1500.00
+    },
+    {
+        "id": 7,
+        "type": "slaginstrumenten",
+        "naam": "Drumstel",
+        "img": "img/drumstel.png",
+        "beschrijving": "Complete drumstelset voor dynamische ritmes en grooves. Met hoogwaardige trommels, bekkens en hardware. Perfect voor drummers die variatie en expressie in hun spel willen brengen.",
+        "prijs": 1300.00
+    },
+    {
+        "id": 8,
+        "type": "blaasinstrumenten",
+        "naam": "Dwarsfluit",
+        "img": "img/dwarsfluit.png",
+        "beschrijving": "Elegante dwarsfluit met heldere, betoverende tonen. Gemaakt van hoogwaardig zilverlegering voor optimale klankprojectie. Geschikt voor zowel beginners als gevorderde fluitisten.",
+        "prijs": 700.00
+    },
+    {
+        "id": 9,
+        "type": "tokkelinstrumenten",
+        "naam": "Elektrische gitaar",
+        "img": "img/elektrische_gitaar.png",
+        "beschrijving": "Iconische elektrische gitaar met veelzijdige klankmogelijkheden. Uitgerust met hoogwaardige pickups voor krachtige en expressieve geluiden. Ideaal voor rock, pop en meer.",
+        "prijs": 700.00
+    },
+    {
+        "id": 10,
+        "type": "strijkinstrumenten",
+        "naam": "Elektrische viool",
+        "img": "img/elektrische_viool.png",
+        "beschrijving": "Moderne elektrische viool met strak design en elektronische mogelijkheden. Combineert traditionele klank met moderne innovatie. Geschikt voor muzikanten die grenzen willen verleggen.",
+        "prijs": 600.00
+    },
+    {
+        "id": 11,
+        "type": "toetsinstrumenten",
+        "naam": "Keyboard",
+        "img": "img/keyboard.png",
+        "beschrijving": "Veelzijdig keyboard met talloze geluiden en ritmeopties. Ideaal voor beginners en ervaren spelers. Ontdek je creativiteit met dit draagbare en inspirerende instrument.",
+        "prijs": 400.00
+    },
+    {
+        "id": 12,
+        "type": "blaasinstrumenten",
+        "naam": "Klarinet",
+        "img": "img/klarinet.png",
+        "beschrijving": "Klassieke klarinet met warme, melodieuze tonen. Vervaardigd met aandacht voor detail en kwaliteit. Perfect voor orkestrale en kamermuziekuitvoeringen.",
+        "prijs": 600.00
+    },
+    {
+        "id": 13,
+        "type": "tokkelinstrumenten",
+        "naam": "Klassieke gitaar",
+        "img": "img/klassieke_gitaar.png",
+        "beschrijving": "Verfijnde klassieke gitaar met warme, rijke klanken. Gebouwd met traditionele materialen en technieken. Ideaal voor fingerstyle en klassieke muziek.",
+        "prijs": 500.00
+    },
+    {
+        "id": 14,
+        "type": "tokkelinstrumenten",
+        "naam": "Mandoline",
+        "img": "img/mandoline.png",
+        "beschrijving": "Lichte mandoline met heldere, sprankelende klanken. Voorzien van verstelbare brug voor nauwkeurige intonatie. Geschikt voor bluegrass, folk en meer.",
+        "prijs": 250.00
+    },
+    {
+        "id": 15,
+        "type": "toetsinstrumenten",
+        "naam": "Piano",
+        "img": "img/piano.png",
+        "beschrijving": "Elegante piano met rijke, expressieve klanken. Voorzien van nauwkeurige toetsrespons en prachtig ontwerp. Creëer meeslepende melodieën op dit tijdloze instrument.",
+        "prijs": 2000.00
+    },
+    {
+        "id": 16,
+        "type": "blaasinstrumenten",
+        "naam": "Saxofoon",
+        "img": "img/saxofoon.png",
+        "beschrijving": "Veelzijdige saxofoon met warme, levendige klanken. Gemaakt van hoogwaardig messing voor optimale geluidsprojectie. Geschikt voor diverse muziekgenres.",
+        "prijs": 1200.00
+    },
+    {
+        "id": 17,
+        "type": "slaginstrumenten",
+        "naam": "Snare drum",
+        "img": "img/snare_drum.png",
+        "beschrijving": "Iconische snare drum met scherpe, krachtige klanken. Gebouwd met hoogwaardige materialen voor nauwkeurige respons. Een essentieel onderdeel van elke drumset.",
+        "prijs": 300.00
+    },
+    {
+        "id": 18,
+        "type": "slaginstrumenten",
+        "naam": "Tom drum",
+        "img": "img/tom_drum.png",
+        "beschrijving": "Tom drum met diepe, resonerende klanken. Verkrijgbaar in verschillende maten voor diverse toonhoogtes. Voeg textuur toe aan je ritmes met deze tom drum.",
+        "prijs": 250.00
+    },
+    {
+        "id": 19,
+        "type": "blaasinstrumenten",
+        "naam": "Trompet",
+        "img": "img/trompet.png",
+        "beschrijving": "Klassieke trompet met heldere, schetterende tonen. Gemaakt met precisie en vakmanschap. Ideaal voor solo's, ensembles en meer.",
+        "prijs": 800.00
+    },
+    {
+        "id": 20,
+        "type": "tokkelinstrumenten",
+        "naam": "Ukelele",
+        "img": "img/ukelele.png",
+        "beschrijving": "Speelse ukelele met vrolijke tonen en compact formaat. Perfect voor beginners en een leuke aanvulling op elke muziekstijl. Neem de zomerse klanken overal mee naartoe.",
+        "prijs": 100.00
+    },
+    {
+        "id": 21,
+        "type": "strijkinstrumenten",
+        "naam": "Viool",
+        "img": "img/viool.png",
+        "beschrijving": "Betoverende viool met warme klanken en prachtige resonantie. Met ambachtelijk gesneden esdoornhouten body en sparrenhouten bovenblad. Perfect voor zowel beginnende als ervaren musici. Beleef de magie van muziek met deze elegant vormgegeven viool.",
+        "prijs": 700.00
+    },
+    {
+        "id": 22,
+        "type": "toetsinstrumenten",
+        "naam": "Vleugel piano",
+        "img": "img/vleugel_piano.png",
+        "beschrijving": "Verfijnde vleugel piano met weelderige, resonante klanken. Handgemaakt met oog voor detail en klankkwaliteit. Breng emotie en diepgang in je pianospel met dit prestigieuze instrument.",
+        "prijs": 5000.00
+    }
+]
